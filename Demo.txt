@@ -1,5 +1,0 @@
-Hello World
-take the input 
-and give output
-
-Submit data
